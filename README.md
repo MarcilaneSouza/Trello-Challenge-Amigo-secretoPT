@@ -92,7 +92,7 @@ Exibe o resultado na tela formatado como "Participante → Amigo Secreto".
 Se alguém tirar a si mesmo, o sorteio é refeito automaticamente.
 
 
-Tecnologias Utilizadas#
-HTML5 → Estrutura da página#
-CSS3 → Estilização responsiva#
+Tecnologias Utilizadas:
+HTML5 → Estrutura da página
+CSS3 → Estilização responsiva
 JavaScript → Lógica do sorteio
