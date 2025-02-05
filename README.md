@@ -2,6 +2,7 @@
 Challenge amigo secreto
 
 Como o JavaScript foi implementado?
+
 1️⃣ Criando a Lista de Amigos
 O primeiro passo foi criar um array para armazenar os nomes inseridos pelos usuários. 
 Sempre que um novo nome for adicionado, ele será salvo nesse array:
